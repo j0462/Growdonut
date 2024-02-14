@@ -106,10 +106,10 @@
 - 동영상  
 
 
-  ![image](https://github.com/j0462/Growdonut/assets/70842040/ef0fb63a-5d24-4acc-b98a-d977e28b4ba0)
+![image](https://github.com/j0462/Growdonut/assets/70842040/ef0fb63a-5d24-4acc-b98a-d977e28b4ba0)
 
 
-      https://www.youtube.com/watch?v=8cGalu9FY7o&t=529s
+https://www.youtube.com/watch?v=8cGalu9FY7o&t=529s
   
 
 <br><br>
@@ -117,7 +117,8 @@
 
 # [대표 이미지]
 
-![image](https://user-images.githubusercontent.com/70842040/191635332-1f2a38d0-6a5a-4987-9d04-28a445d5925b.png)
+![image](https://github.com/j0462/Growdonut/assets/70842040/7c798e6e-7a39-46b3-908e-77c414c6b77a)
+
 
 <br><br>
 
@@ -204,6 +205,9 @@ RPG는 최근 전략 또는 방치형이 유행하며 기업들의 투자 경쟁
 여기어때 잘난체 Font를 사용한다.
 
 작품제작에는 TTF보다 OTF가 더욱 정밀하여 OTF를 사용한다.
+
+![image](https://github.com/j0462/Growdonut/assets/70842040/1830081d-7b4d-4acc-a94e-df5760c2ae3d)
+
 
 
 

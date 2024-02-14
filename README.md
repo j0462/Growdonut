@@ -385,7 +385,8 @@ Unity를 기반으로 모바일 플랫폼으로 개발한다.
 
 
 ### b. 이벤트 흐름도
-![image](https://github.com/j0462/Growdonut/assets/70842040/3a0d11c6-f825-4ef7-b7e7-7f6a857218b1)
+![image](https://github.com/j0462/Growdonut/assets/70842040/8f3f7d72-94bd-46f9-81d4-60024bfed726)
+
 
 
 

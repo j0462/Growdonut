@@ -106,7 +106,8 @@
 - 동영상  
 
 
-  1) ![image](https://user-images.githubusercontent.com/70842040/191636596-23273401-e18c-49fd-a3cc-a780525bfcab.png)
+  ![image](https://github.com/j0462/Growdonut/assets/70842040/ef0fb63a-5d24-4acc-b98a-d977e28b4ba0)
+
 
       https://www.youtube.com/watch?v=8cGalu9FY7o&t=529s
   

@@ -240,9 +240,19 @@ Unity를 기반으로 모바일 플랫폼으로 개발한다.
 ## a. 게임 오브젝트
 
 |번호|명칭|이미지|
-|:----:|-------|:-----:|
+|:----:|:-------:|:-----:|
 |1|도넛|<img src="https://github.com/j0462/Growdonut/assets/70842040/aeb3ed7d-40a5-4a2c-83d4-781f27470314" width="20%" height="20%"/>|
-|2|도넛사이클&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<img src="https://github.com/j0462/Growdonut/assets/70842040/2d86350b-3385-44ab-b5ae-ffddb307ce05" width="20%" height="20%"/>|
+|2|도넛사이클|<img src="https://github.com/j0462/Growdonut/assets/70842040/2d86350b-3385-44ab-b5ae-ffddb307ce05" width="20%" height="20%"/>|
+|3|버튼|<img src="https://github.com/j0462/Growdonut/blob/main/image/Red.png" width="20%" height="20%"/>|
+|4|1등|<img src="https://github.com/j0462/Growdonut/blob/main/image/First.png" width="20%" height="20%"/>|
+|5|2등|<img src="https://github.com/j0462/Growdonut/blob/main/image/Second.png" width="20%" height="20%"/>|
+|6|3등|<img src="https://github.com/j0462/Growdonut/blob/main/image/Third.png" width="20%" height="20%"/>|
+|7|트로피|<img src="https://github.com/j0462/Growdonut/blob/main/image/Trophy.png" width="20%" height="20%"/>|
+|8|옵션|<img src="https://github.com/j0462/Growdonut/blob/main/image/Option.png" width="20%" height="20%"/>|
+|9|음량|<img src="https://github.com/j0462/Growdonut/blob/main/image/Sound.png" width="20%" height="20%"/>|
+|10|배경|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EB%B0%B0%EA%B2%BD.png" width="20%" height="20%"/>|
+|11|로고|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EB%A1%9C%EA%B3%A0.png" width="20%" height="20%"/>|
+|12|아이콘|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EC%95%84%EC%9D%B4%EC%BD%98.png" width="20%" height="20%"/>|
 
 
 

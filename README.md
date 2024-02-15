@@ -239,34 +239,7 @@ Unity를 기반으로 모바일 플랫폼으로 개발한다.
 
 |번호|명칭|이미지|
 |----|----|-----|
-|1|메인메뉴|![image](https://user-images.githubusercontent.com/70842040/196700671-132c43e5-0c3f-460f-b8a7-d3e4eec93572.png)|
-|2|스테이지 락, 언락|![image](https://user-images.githubusercontent.com/70842040/196700719-f007d476-14b4-4e43-bbdc-538bab2478ad.png)|
-|3|스테이지 시작|![image](https://user-images.githubusercontent.com/70842040/196700762-442a56b9-ccb7-456a-bbff-993cd0c153bc.png)|
-|4|흑마법사-헥센|![image](https://user-images.githubusercontent.com/70842040/196698679-d9680360-7920-41fc-b14e-2475102a66e9.png)|
-|5|흑마법|![image](https://user-images.githubusercontent.com/70842040/196698735-a8c09c5a-4356-4392-b19f-3d4f86c1da26.png)|
-|6|마법사-마기|![image](https://user-images.githubusercontent.com/70842040/196698812-92102857-3234-4802-97b5-18f1ce83ff9a.png)|
-|7|마법|![image](https://user-images.githubusercontent.com/70842040/196698872-129a4f0b-4f2f-4e83-9c76-9b7ec862c3ad.png)|
-|8|기사-크리거|![image](https://user-images.githubusercontent.com/70842040/196698931-70fdecae-71d2-4104-98b2-54c76206677e.png)|
-|9|레이피어|![image](https://user-images.githubusercontent.com/70842040/196698983-56d702e4-c77e-42af-82bc-d5119f6297f4.png)|
-|10|궁수-보겐|![image](https://user-images.githubusercontent.com/70842040/196699042-6d6e83b3-614a-41d7-bf53-b8583e14a137.png)|
-|11|화살|![image](https://user-images.githubusercontent.com/70842040/196699113-bfa34412-ed6f-4508-8d75-df8b4c806198.png)|
-|12|골렘|![image](https://user-images.githubusercontent.com/70842040/196699163-f9028ec5-0130-4dcd-a646-51d9c34054c7.png)|
-|13|골렘의 hp|![image](https://user-images.githubusercontent.com/70842040/196699216-b93aeab9-b122-499b-b2ea-36c1feadb977.png)|
-|14|타이머|![image](https://user-images.githubusercontent.com/70842040/196699276-ed51c8ef-0c6b-43f0-ba58-bc44ff201c1a.png)|
-|15|클리어|![image](https://user-images.githubusercontent.com/70842040/196699326-c46250e8-eaec-418d-aa92-5129d939bc0b.png)|
-|16|나가기, 다시하기, 다음스테이지|![image](https://user-images.githubusercontent.com/70842040/196699401-2168a9c4-ad4c-46ab-861d-a94c240bfbac.png)|
-|17|실패|![image](https://user-images.githubusercontent.com/70842040/196699447-ac9acc16-9ccf-424d-b1a9-81ac37840eef.png)|
-|18|배경-숲속|![image](https://user-images.githubusercontent.com/70842040/196699502-103888aa-e247-48c2-9d6c-6ad246b6f8f5.png)|
-|19|배경-동굴|![image](https://user-images.githubusercontent.com/70842040/196699547-f1a9a5ec-38be-404f-935b-2d0c1a63e547.png)|
-|20|재화-골드|![image](https://user-images.githubusercontent.com/70842040/196699605-24439d1f-bd0b-4ff9-818a-2736d68e950c.png)|
-|21|퍼즐-토큰|![image](https://user-images.githubusercontent.com/70842040/196699664-6a0b57c0-3627-4df6-a1dd-f6cc35daccd4.png)|
-|22|토큰1|![image](https://user-images.githubusercontent.com/70842040/196699708-528dcec1-67e3-456d-8f7e-647483e41b1f.png)|
-|23|토큰2|![image](https://user-images.githubusercontent.com/70842040/196699775-a4858064-45ca-4a41-a738-ce402bdd1328.png)|
-|24|토큰3|![image](https://user-images.githubusercontent.com/70842040/196699814-aaf0a86c-6313-44fb-8836-945a86e7927b.png)|
-|25|토큰4|![image](https://user-images.githubusercontent.com/70842040/196699843-2a3fab06-63c5-42a5-b8ce-fcdc739a0a4d.png)|
-|26|토큰5|![image](https://user-images.githubusercontent.com/70842040/196699887-ab1db890-0541-4a52-b907-76170eacb0a2.png)|
-|27|플레이기회-|![image](https://user-images.githubusercontent.com/70842040/196699917-c822b533-87a4-4c40-ac4c-07f1db632303.png)|
-
+|1|도넛|https://github.com/j0462/Growdonut/blob/main/image/donut.png|
 
 
 ## b. 파라미터(속성)

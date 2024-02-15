@@ -452,16 +452,16 @@ bgm, sfx 추가
 
 # 스크립트 코드
 
-(https://github.com/j0462/Growdonut/blob/main/Scripts/CameraFixed.cs)[해상도조절]
+[해상도조절](https://github.com/j0462/Growdonut/blob/main/Scripts/CameraFixed.cs)
 
-https://github.com/j0462/Growdonut/blob/main/Scripts/Token.cs - 도넛(플레이씬)
+[도넛(플레이씬)](https://github.com/j0462/Growdonut/blob/main/Scripts/Token.cs)
 
-https://github.com/j0462/Growdonut/blob/main/Scripts/StartToken.cs - 도넛(타이틀씬-배경용)
+[도넛(타이틀씬-배경용)](https://github.com/j0462/Growdonut/blob/main/Scripts/StartToken.cs)
 
-https://github.com/j0462/Growdonut/blob/main/Scripts/Startmanager.cs - 타이틀씬 메니저
+[타이틀씬 메니저](https://github.com/j0462/Growdonut/blob/main/Scripts/Startmanager.cs)
 
-https://github.com/j0462/Growdonut/blob/main/Scripts/Gamemanager.cs - 플레이씬 메니저
+[플레이씬 메니저](https://github.com/j0462/Growdonut/blob/main/Scripts/Gamemanager.cs)
 
-https://github.com/j0462/Growdonut/blob/main/Scripts/Resultmanager.cs - 결과(기록)씬 메니저
+[결과(기록)씬 메니저](https://github.com/j0462/Growdonut/blob/main/Scripts/Resultmanager.cs)
 
-https://github.com/j0462/Growdonut/blob/main/Scripts/Soundmanager.cs - 사운드 메니저
+[사운드 메니저](https://github.com/j0462/Growdonut/blob/main/Scripts/Soundmanager.cs)

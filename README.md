@@ -244,7 +244,7 @@ Unity를 기반으로 모바일 플랫폼으로 개발한다.
 |1|도넛|<img src="https://github.com/j0462/Growdonut/assets/70842040/aeb3ed7d-40a5-4a2c-83d4-781f27470314" width="20%" height="20%"/>|
 |2|도넛사이클|<img src="https://github.com/j0462/Growdonut/assets/70842040/2d86350b-3385-44ab-b5ae-ffddb307ce05" width="20%" height="20%"/>|
 |3|버튼|<img src="https://github.com/j0462/Growdonut/assets/70842040/69d51dd5-d1fb-44cc-ad64-929445933004" width="20%" height="20%"/>|
-|4|1등|<img src="(https://github.com/j0462/Growdonut/assets/70842040/774a635e-b59a-4d4b-b632-26e8bc41ae08" width="20%" height="20%"/>|
+|4|1등|<img src="https://github.com/j0462/Growdonut/assets/70842040/774a635e-b59a-4d4b-b632-26e8bc41ae08" width="20%" height="20%"/>|
 |5|2등|<img src="https://github.com/j0462/Growdonut/assets/70842040/79cb8a0b-8afe-4eb5-9cf9-651a2a4931de" width="20%" height="20%"/>|
 |6|3등|<img src="https://github.com/j0462/Growdonut/assets/70842040/5a5c88b2-c75f-4816-a10b-74c6bcfec2b1" width="20%" height="20%"/>|
 |7|트로피|<img src="https://github.com/j0462/Growdonut/assets/70842040/bd2776f4-1914-4d1a-a243-7a3b8ce5981d" width="20%" height="20%"/>|

@@ -239,7 +239,8 @@ Unity를 기반으로 모바일 플랫폼으로 개발한다.
 
 |번호|명칭|이미지|
 |----|----|-----|
-|1|도넛|![image](https://github.com/j0462/Growdonut/assets/70842040/aeb3ed7d-40a5-4a2c-83d4-781f27470314)|
+|1|도넛|<img src="https://github.com/j0462/Growdonut/assets/70842040/aeb3ed7d-40a5-4a2c-83d4-781f27470314" width="30%" height="30%"/>|
+
 
 
 ## b. 파라미터(속성)

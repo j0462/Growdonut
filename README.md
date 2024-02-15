@@ -452,7 +452,7 @@ bgm, sfx 추가
 
 # 스크립트 코드
 
-https://github.com/j0462/Growdonut/blob/main/Scripts/CameraFixed.cs - 해상도조절
+(https://github.com/j0462/Growdonut/blob/main/Scripts/CameraFixed.cs)[해상도조절]
 
 https://github.com/j0462/Growdonut/blob/main/Scripts/Token.cs - 도넛(플레이씬)
 

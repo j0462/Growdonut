@@ -195,8 +195,8 @@ RPG는 최근 전략 또는 방치형이 유행하며 기업들의 투자 경쟁
 유저들에게 구별이 잘 되도록 고단계 도넛은
 
 과장된 모습으로 그린다.
-
-
+  
+  
 
 
 [폰트]
@@ -209,9 +209,9 @@ RPG는 최근 전략 또는 방치형이 유행하며 기업들의 투자 경쟁
 
 ![image](https://github.com/j0462/Growdonut/assets/70842040/1830081d-7b4d-4acc-a94e-df5760c2ae3d)
 
+  
 
-
-
+  
 
 [음향]  
 
@@ -239,7 +239,7 @@ Unity를 기반으로 모바일 플랫폼으로 개발한다.
 
 |번호|명칭|이미지|
 |----|----|-----|
-|1|도넛|https://github.com/j0462/Growdonut/blob/main/image/donut.png|
+|1|도넛|![image](https://github.com/j0462/Growdonut/assets/70842040/b964802a-6213-49d0-a4b8-96815bad8a3a){: width="50%" height="50%"}|
 
 
 ## b. 파라미터(속성)

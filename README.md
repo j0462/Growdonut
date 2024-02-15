@@ -252,7 +252,7 @@ Unity를 기반으로 모바일 플랫폼으로 개발한다.
 |9|음량|<img src="https://github.com/j0462/Growdonut/blob/main/image/Sound.png" width="20%" height="20%"/>|
 |10|배경|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EB%B0%B0%EA%B2%BD.png" width="20%" height="20%"/>|
 |11|로고|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EB%A1%9C%EA%B3%A0.png" width="20%" height="20%"/>|
-|&nbsp;&nbsp;12 &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;아이콘 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EC%95%84%EC%9D%B4%EC%BD%98.png" width="20%" height="20%"/>|
+|&nbsp;12 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;아이콘 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EC%95%84%EC%9D%B4%EC%BD%98.png" width="20%" height="20%"/>|
 
 
 

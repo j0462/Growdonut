@@ -243,16 +243,16 @@ Unity를 기반으로 모바일 플랫폼으로 개발한다.
 |:----:|:-------:|:-----:|
 |1|도넛|<img src="https://github.com/j0462/Growdonut/assets/70842040/aeb3ed7d-40a5-4a2c-83d4-781f27470314" width="20%" height="20%"/>|
 |2|도넛사이클|<img src="https://github.com/j0462/Growdonut/assets/70842040/2d86350b-3385-44ab-b5ae-ffddb307ce05" width="20%" height="20%"/>|
-|3|버튼|<img src="https://github.com/j0462/Growdonut/blob/main/image/Red.png./" width="20%" height="20%"/>|
-|4|1등|<img src="https://github.com/j0462/Growdonut/blob/main/image/First.png./" width="20%" height="20%"/>|
-|5|2등|<img src="https://github.com/j0462/Growdonut/blob/main/image/Second.png./" width="20%" height="20%"/>|
-|6|3등|<img src="https://github.com/j0462/Growdonut/blob/main/image/Third.png./" width="20%" height="20%"/>|
-|7|트로피|<img src="https://github.com/j0462/Growdonut/blob/main/image/Trophy.png./" width="20%" height="20%"/>|
-|8|옵션|<img src="https://github.com/j0462/Growdonut/blob/main/image/Option.png./" width="20%" height="20%"/>|
-|9|음량|<img src="https://github.com/j0462/Growdonut/blob/main/image/Sound.png./" width="20%" height="20%"/>|
-|10|배경|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EB%B0%B0%EA%B2%BD.png./" width="20%" height="20%"/>|
-|11|로고|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EB%A1%9C%EA%B3%A0.png./" width="20%" height="20%"/>|
-|&nbsp;12 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;아이콘 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<img src="https://github.com/j0462/Growdonut/blob/main/image/%EC%95%84%EC%9D%B4%EC%BD%98.png./" width="20%" height="20%"/>|
+|3|버튼|<img src="https://github.com/j0462/Growdonut/assets/70842040/69d51dd5-d1fb-44cc-ad64-929445933004" width="20%" height="20%"/>|
+|4|1등|<img src="(https://github.com/j0462/Growdonut/assets/70842040/774a635e-b59a-4d4b-b632-26e8bc41ae08" width="20%" height="20%"/>|
+|5|2등|<img src="https://github.com/j0462/Growdonut/assets/70842040/79cb8a0b-8afe-4eb5-9cf9-651a2a4931de" width="20%" height="20%"/>|
+|6|3등|<img src="https://github.com/j0462/Growdonut/assets/70842040/5a5c88b2-c75f-4816-a10b-74c6bcfec2b1" width="20%" height="20%"/>|
+|7|트로피|<img src="https://github.com/j0462/Growdonut/assets/70842040/bd2776f4-1914-4d1a-a243-7a3b8ce5981d" width="20%" height="20%"/>|
+|8|옵션|<img src="https://github.com/j0462/Growdonut/assets/70842040/eff4abef-2bde-4e6f-b21f-c9b852526d8c" width="20%" height="20%"/>|
+|9|음량|<img src="https://github.com/j0462/Growdonut/assets/70842040/f79935f2-7179-45e1-b844-257d08052fe0" width="20%" height="20%"/>|
+|10|배경|<img src="https://github.com/j0462/Growdonut/assets/70842040/8537684d-8a97-4d81-bbb8-6ae8d14dca97" width="20%" height="20%"/>|
+|11|로고|<img src="https://github.com/j0462/Growdonut/assets/70842040/9de49bc4-ada4-47a0-b68b-58c800d29277" width="20%" height="20%"/>|
+|&nbsp;12 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;아이콘 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<img src="https://github.com/j0462/Growdonut/assets/70842040/79627189-7ec0-40ee-926f-b84e3e404a3b" width="20%" height="20%"/>|
 
 
 
